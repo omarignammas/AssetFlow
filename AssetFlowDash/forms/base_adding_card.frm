@@ -1,0 +1,63 @@
+{
+    "customProperties":{
+        "formComponent":false,
+        "methods":{
+            "onHideMethodID":{
+                "arguments":null,
+                "parameters":null
+            }
+        },
+        "useCssPosition":true
+    },
+    "extendsID":"D646FA8E-BF70-47EC-953B-B4034215A540",
+    "items":[
+        {
+            "cssPosition":"326,-1,-1,368,93,34",
+            "json":{
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"34",
+                    "left":"368",
+                    "right":"-1",
+                    "top":"326",
+                    "width":"93"
+                },
+                "onActionMethodID":"247759A6-1FAA-4E25-84D7-01A899C92A37",
+                "showAs":null,
+                "styleClass":"btn btn-danger",
+                "text":"Cancel"
+            },
+            "name":"button_7_copy23",
+            "styleClass":"btn btn-danger",
+            "typeName":"bootstrapcomponents-button",
+            "typeid":47,
+            "uuid":"447C2F92-07BE-4DCD-B0E6-17314FA9A3C8"
+        },
+        {
+            "cssPosition":"325,-1,-1,479,93,35",
+            "json":{
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"35",
+                    "left":"479",
+                    "right":"-1",
+                    "top":"325",
+                    "width":"93"
+                },
+                "onActionMethodID":"CF352DF0-12D8-4E6C-AE8A-3351A9D1A46E",
+                "showAs":null,
+                "styleClass":"btn btn-success",
+                "text":"Save"
+            },
+            "name":"button_7",
+            "styleClass":"btn btn-success",
+            "typeName":"bootstrapcomponents-button",
+            "typeid":47,
+            "uuid":"5EA0E26A-2349-47E5-BEEF-A97A1731DFF0"
+        }
+    ],
+    "name":"base_adding_card",
+    "onHideMethodID":"190A611C-3E96-41F4-9A8C-12264A16D0A9",
+    "typeid":3,
+    "uuid":"C183B54E-61D7-45A7-A31E-2B117A3D943F"
+}

@@ -1,0 +1,40 @@
+{
+    "customProperties":{
+        "formComponent":false,
+        "methods":{
+            "onHideMethodID":{
+                "arguments":null,
+                "parameters":null
+            }
+        },
+        "useCssPosition":true
+    },
+    "extendsID":"D646FA8E-BF70-47EC-953B-B4034215A540",
+    "items":[
+        {
+            "cssPosition":"339,-1,-1,241,126,30",
+            "json":{
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"30",
+                    "left":"241",
+                    "right":"-1",
+                    "top":"339",
+                    "width":"126"
+                },
+                "onActionMethodID":"FE2DB057-F648-4805-B958-9079EEB1F613",
+                "styleClass":"btn btn-primary",
+                "text":"Cancel"
+            },
+            "name":"button_7",
+            "styleClass":"btn btn-primary",
+            "typeName":"bootstrapcomponents-button",
+            "typeid":47,
+            "uuid":"E37D6A7B-81D6-4CF8-807A-93A8B2EA0911"
+        }
+    ],
+    "name":"base_details",
+    "onHideMethodID":"BC4FB1D9-6D1A-440A-9C75-76654AB8935F",
+    "typeid":3,
+    "uuid":"9918C760-5D75-466C-AE3C-4BE2601602DF"
+}

@@ -1,0 +1,104 @@
+{
+    "customProperties":{
+        "formComponent":false,
+        "useCssPosition":true
+    },
+    "extendsID":"D646FA8E-BF70-47EC-953B-B4034215A540",
+    "items":[
+        {
+            "cssPosition":"230,-1,-1,496,105,27",
+            "json":{
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"27",
+                    "left":"496",
+                    "right":"-1",
+                    "top":"230",
+                    "width":"105"
+                },
+                "enabled":true,
+                "onActionMethodID":"4F075546-7E6C-4B76-A099-540B7825F6D6",
+                "styleClass":"btn btn-default btn-info font-weight-bold clickable-hover",
+                "text":" + Add Record"
+            },
+            "name":"button_27",
+            "styleClass":"btn btn-default btn-info font-weight-bold clickable-hover",
+            "typeName":"bootstrapcomponents-button",
+            "typeid":47,
+            "uuid":"1C83FC78-1409-4647-B30F-4E5A638A42E7"
+        },
+        {
+            "height":480,
+            "typeid":19,
+            "uuid":"3BCE3825-6DC3-4148-88A9-5D4473A05345"
+        },
+        {
+            "cssPosition":"15,-1,-1,22,275,30",
+            "json":{
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"30",
+                    "left":"22",
+                    "right":"-1",
+                    "top":"15",
+                    "width":"275"
+                },
+                "styleClass":"text-primary active",
+                "text":"Record related insights"
+            },
+            "name":"label_21_copy498",
+            "styleClass":"text-primary active",
+            "typeName":"bootstrapcomponents-label",
+            "typeid":47,
+            "uuid":"721B1C70-6EC2-48B6-89AE-91E37FCBAA91"
+        },
+        {
+            "cssPosition":"284,-1,-1,20,601,167",
+            "json":{
+                "checkboxSelection":true,
+                "columns":[],
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"167",
+                    "left":"20",
+                    "right":"-1",
+                    "top":"284",
+                    "width":"601"
+                },
+                "myFoundset":{
+                    "foundsetSelector":""
+                },
+                "onCellClick":null,
+                "onCellRightClick":null,
+                "readOnly":true
+            },
+            "name":"datagrid_1",
+            "typeName":"aggrid-groupingtable",
+            "typeid":47,
+            "uuid":"8DC2F826-3E8A-479E-8021-C623721EB0FD"
+        },
+        {
+            "cssPosition":"180,-1,-1,25,172,30",
+            "json":{
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"30",
+                    "left":"25",
+                    "right":"-1",
+                    "top":"180",
+                    "width":"172"
+                },
+                "styleClass":"text-primary active",
+                "text":"Record List"
+            },
+            "name":"label_21",
+            "styleClass":"text-primary active",
+            "typeName":"bootstrapcomponents-label",
+            "typeid":47,
+            "uuid":"A65F1FE5-F3BA-4C6A-AA83-8E1519921DE1"
+        }
+    ],
+    "name":"base_record_management",
+    "typeid":3,
+    "uuid":"AFA5CA9E-5A11-4890-8078-856B7A9F3A7C"
+}
